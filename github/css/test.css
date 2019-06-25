@@ -1,0 +1,133 @@
+body{
+    padding:0;
+    margin:0;
+}
+.logo{
+    position: absolute;
+    left: 98px;
+    top: 38px;
+}
+
+ .sect1 ul li{
+    display:inline-block;
+  
+}
+
+.li1{
+    position: absolute;
+    left:1053px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    color:#10C9C3;
+}
+.li2{
+    position: absolute;
+    left:1152px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    
+}
+.li3{
+    position: absolute;
+    left:1251px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.sect1{
+    height:22px;
+    margin:0;
+    padding:0;
+}
+
+.text{
+    font-size: 48px;
+    font-family: "Montserrat";
+    text-align:center;
+    position: relative;
+    top:100px;
+}
+.sect2{
+    background-color: #F6F6F6;
+    height:350px;
+}
+.text2{
+    font-size: 18px;
+    font-family: "NunitoSans";
+    text-align:center;
+    position: absolute;
+    top:260px;
+    left:550px;
+}
+.work1,.work2,.work3,.work4{
+    width:50%;
+    display:block;
+    margin:0 auto;
+    padding:10px 0;
+   
+}
+.footer{
+    height:200px;
+    background-color:black;
+    position: relative;
+    margin:-10px;
+}
+.sect3{
+    background-color: #F6F6F6;
+}
+.corp{
+    
+    position: absolute;
+    top:60px;
+    left:150px;
+    font:bold 18px "Montserrat";
+    color:white;
+}
+.cc{
+    position: absolute;;
+   padding-left:150px;
+   padding-top:96px;
+    color:#BCBCBC;
+    font:15px "NunitoSans";
+}
+.contacts{
+    color:#BCBCBC;
+    position: absolute;
+    padding:65px 0 0 650px;
+    font:15px "NunitoSans";
+}
+
+ .info ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding:60px 0 0 950px;
+    line-height:20px;
+  
+}
+.info2 ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding:60px 0 0 1100px;
+    line-height:20px;
+  
+}
+.info3 ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding:60px 0 0 1400px;
+    line-height:20px;
+}

@@ -10,11 +10,11 @@ a{text-decoration:none;color:#000}
 .sect2{background-color:#f6f6f6;height:350px}
 .text2{font-size:18px;font-family:NunitoSans;text-align:center;position:absolute;top:260px;left:550px}
 .work1,.work2,.work3,.work4{width:50%;display:block;margin:0 auto;padding:10px 0}
-.footer{height:280px;background-color:#000;position:relative;margin:-10px}
+.footer{height:200px;background-color:#000;position:relative;margin:-10px}
 .sect3{background-color:#f6f6f6}
-.corp{position:absolute;top:100px;left:150px;font:bold 18px Montserrat;color:#fff}
-.cc{position:absolute;padding-left:150px;padding-top:135px;color:#bcbcbc;font:15px NunitoSans}
-.contacts{color:#bcbcbc;position:absolute;padding:105px 0 0 650px;font:15px NunitoSans}
-.info ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:100px 0 0 950px;line-height:20px}
-.info2 ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:100px 0 0 1100px;line-height:20px}
-.info3 ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:100px 0 0 1400px;line-height:20px}
+.corp{position:absolute;top:60px;left:150px;font:bold 18px Montserrat;color:#fff}
+.cc{position:absolute;padding-left:150px;padding-top:96px;color:#bcbcbc;font:15px NunitoSans}
+.contacts{color:#bcbcbc;position:absolute;padding:65px 0 0 650px;font:15px NunitoSans}
+.info ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:60px 0 0 950px;line-height:20px}
+.info2 ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:60px 0 0 1100px;line-height:20px}
+.info3 ul{color:#bcbcbc;position:absolute;font:15px NunitoSans;list-style-type:none;padding:60px 0 0 1400px;line-height:20px}

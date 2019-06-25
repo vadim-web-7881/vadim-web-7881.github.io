@@ -1,0 +1,211 @@
+html{
+    height:1200px;
+
+}
+body{
+    padding:0;
+    margin:0;
+    height:1200px;
+    
+}
+.logo{
+    position: absolute;
+    left: 98px;
+    top: 38px;
+}
+
+ .sect1 ul li{
+    display:inline-block;
+  
+}
+
+.li1{
+    position: absolute;
+    left:1053px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    color:#10C9C3;
+}
+.li2{
+    position: absolute;
+    left:1152px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    
+}
+.li3{
+    position: absolute;
+    left:1251px;
+    top: 45px;
+    font-size: 12px;
+    font-family: "Montserrat";
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.sect1{
+    height:40px;
+    margin:0;
+    padding:0;
+}
+
+.info{
+    font:bold 30px "Montserrat";
+    padding-top:100px;
+    padding-left:100px;
+}
+.sect2{
+    height:1150px;
+    background-color: #F6F6F6;
+}
+.ustext{
+    font:16px "NunitoSans";
+    color:#BCBCBC;
+    padding-left:100px;
+}
+.address{
+    font:bold 16px "NunitoSans";
+    padding-left:100px;
+}
+.adr{
+    font:16px "NunitoSans";
+    color:#787878;
+}
+.phone{
+    font:bold 16px "NunitoSans";
+    padding-left:100px;
+}
+.pho{
+    font:16px "NunitoSans";
+    color:#787878;
+}
+.email{
+    font:bold 16px "NunitoSans";
+    padding-left:100px;
+}
+.mail{
+    font:16px "NunitoSans";
+    color:#787878;
+}
+
+.name{
+ width:20%;
+ height:50px;
+ border:none;
+ position: absolute;
+ top:200px;
+ left:700px;
+ padding-left:25px;
+}
+.emailform{
+    width:20%;
+    height:50px;
+    border:none;
+    position: absolute;
+    top:200px;
+     left:1100px;
+    padding-left:25px;
+}
+.title{
+    width:720px;
+    height:50px;
+    border:none;
+    position: absolute;
+    top:280px;
+     left:700px;
+    padding-left:25px;
+}
+.button{
+    width:200px;
+    height:50px;
+    background-color: #10C9C3;
+    border:none;
+    cursor: pointer;
+    position: relative;
+    left:700px;
+    top:125px;
+}
+.textbut{
+color:white;
+font:12px "Montserrat";
+}
+.comm{
+    width:720px;
+    height:180px;
+    border:none;
+    position: absolute;
+    top:360px;
+    left:700px;
+    padding-left:25px;
+    padding-top:5px;
+    
+}
+.map{
+    position: absolute;
+    top:665px;
+    left:200px;
+    border:none;
+   
+    
+}
+.footer{
+    height:280px;
+    background-color:black;
+    position: relative;
+    margin:-10px;
+}
+
+.corp{
+    
+    position: absolute;
+    top:100px;
+    left:150px;
+    font:bold 18px "Montserrat";
+    color:white;
+}
+.cc{
+    position: absolute;;
+   padding-left:150px;
+   padding-top:135px;
+    color:#BCBCBC;
+    font:15px "NunitoSans";
+}
+.contacts{
+    color:#BCBCBC;
+    position: absolute;
+    padding:105px 0 0 650px;
+    font:15px "NunitoSans";
+}
+
+ .info ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding-left:890px;
+    line-height:20px;
+    
+  
+}
+.info2 ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding-left:1140px;
+    line-height:20px;
+  
+}
+.info3 ul{
+    color:#BCBCBC;
+    position: absolute;
+    font:15px "NunitoSans";
+    list-style-type:none;
+    padding-left:1400px;
+    line-height:20px;
+}
